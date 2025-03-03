@@ -10,9 +10,9 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>Scripts/Indodesia/V1_001__create_users_table.sql.txt</name>
+			<name>Scripts/Indodesia/V1_001__create_users_table.sql</name>
 			<type>1</type>
-			<location>//C:/Users/shekark/git/postgresql-migration/Roche_migration/V1_001__create_users_table.sql.txt</location>
+			<location>C:/Users/shekark/git/postgresql-migration/Roche_migration/V1_001__create_users_table.sql.txt</location>
 		</link>
 	</linkedResources>
 </projectDescription>
