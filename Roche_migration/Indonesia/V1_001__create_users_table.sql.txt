@@ -3,5 +3,6 @@ CREATE TABLE users (
     name VARCHAR(100),
     email VARCHAR(100) UNIQUE NOT NULL,
     salary varchar(100),
-    age integer
+    age integer,
+    dob datetime    
 );
